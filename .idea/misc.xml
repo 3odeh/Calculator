@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Desktop/android studio/My Apps/mathmatical/app/src/main/res/layout/activity_main.xml" value="0.2489754098360656" />
+        <entry key="..\:/Desktop/android studio/My Apps/mathmatical/app/src/main/res/layout/calculator.xml" value="0.2489754098360656" />
+        <entry key="..\:/Desktop/android studio/My Apps/mathmatical/app/src/main/res/layout/circle_layout.xml" value="0.2489754098360656" />
+        <entry key="..\:/Desktop/android studio/My Apps/mathmatical/app/src/main/res/layout/object_area_layout.xml" value="0.2489754098360656" />
+        <entry key="..\:/Desktop/android studio/My Apps/mathmatical/app/src/main/res/layout/rectangle_layout.xml" value="0.2489754098360656" />
+        <entry key="..\:/Desktop/android studio/My Apps/mathmatical/app/src/main/res/layout/square_layout.xml" value="0.2489754098360656" />
+        <entry key="..\:/Desktop/android studio/My Apps/mathmatical/app/src/main/res/layout/triangle_layout.xml" value="0.2489754098360656" />
+        <entry key="..\:/Users/3odeh/Desktop/getHub/android/mathmatical/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/3odeh/Desktop/getHub/android/mathmatical/app/src/main/res/layout/calculator.xml" value="0.1" />
+        <entry key="..\:/Users/odeh/Desktop/android studio/My Apps/mathmatical/app/src/main/res/drawable/bachg_btn.xml" value="0.16171875" />
+        <entry key="..\:/Users/odeh/Desktop/android studio/My Apps/mathmatical/app/src/main/res/drawable/circle.xml" value="0.15859375" />
+        <entry key="..\:/Users/odeh/Desktop/android studio/My Apps/mathmatical/app/src/main/res/layout/activity_main.xml" value="0.146484375" />
+        <entry key="..\:/Users/odeh/Desktop/android studio/My Apps/mathmatical/app/src/main/res/layout/calculator.xml" value="0.27049180327868855" />
+        <entry key="..\:/Users/odeh/Desktop/android studio/My Apps/mathmatical/app/src/main/res/layout/circle_layout.xml" value="0.149609375" />
+        <entry key="..\:/Users/odeh/Desktop/android studio/My Apps/mathmatical/app/src/main/res/layout/object_area_layout.xml" value="0.149609375" />
+        <entry key="..\:/Users/odeh/Desktop/android studio/My Apps/mathmatical/app/src/main/res/layout/rectangle_layout.xml" value="0.146484375" />
+        <entry key="..\:/Users/odeh/Desktop/android studio/My Apps/mathmatical/app/src/main/res/layout/square_layout.xml" value="0.146484375" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/drawable/bachg_btn.xml" value="0.39282051282051283" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/drawable/backsplace.xml" value="0.39282051282051283" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/drawable/box_layout.xml" value="0.302734375" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/drawable/calculator_icon_le_ic_channel_background.xml" value="0.29922779922779924" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/drawable/circle.xml" value="0.39282051282051283" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/drawable/circle_btn.xml" value="0.39282051282051283" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/drawable/ic_launcher_background.xml" value="0.39282051282051283" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.39282051282051283" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/drawable/rectangle_btn.xml" value="0.39282051282051283" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/drawable/square_btn.xml" value="0.39282051282051283" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/drawable/test.xml" value="0.39282051282051283" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/drawable/trianglesa_le_ic_channel_background.xml" value="0.39282051282051283" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/layout/calculator.xml" value="0.16296296296296298" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/layout/circle_ap.xml" value="0.290625" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/layout/circle_layout.xml" value="0.33" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/layout/home_chamge.xml" value="0.25" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/layout/object_area_layout.xml" value="0.33" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/layout/rectangle_layout.xml" value="0.33" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/layout/square_layout.xml" value="0.33" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/layout/tests.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/layout/triangle_layout.xml" value="0.33" />
+        <entry key="..\:/Users/odeh/Desktop/apps/mathmatical/app/src/main/res/mipmap-anydpi-v26/circle_ic_channel.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/drawable/backsplace.xml" value="0.39895833333333336" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/drawable/circle.xml" value="0.39895833333333336" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/drawable/circle_ic_channel_background.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/drawable/ic_circle_launcher_background.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/drawable/ic_launcher_background.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.20989583333333334" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/drawable/ic_square_launcher_background.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/drawable/test.xml" value="0.4036458333333333" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/layout/activity_main.xml" value="0.26992753623188404" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/layout/calculator.xml" value="0.33" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/layout/circle_layout.xml" value="0.33" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/layout/object_area_layout.xml" value="0.33" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/layout/rectangle_layout.xml" value="0.5" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/layout/square_layout.xml" value="0.5" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/layout/test.xml" value="0.3645833333333333" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/layout/tests.xml" value="0.1" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/layout/triangle_layout.xml" value="0.5" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/odeh/Desktop/mathmatical/app/src/main/res/mipmap-anydpi-v26/ic_square_launcher.xml" value="0.3645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00073C"
+    >
+
+    <ImageButton
+        android:id="@+id/RectangleBtn_Object"
+        android:layout_width="200dp"
+        android:layout_height="140dp"
+        android:layout_marginTop="20dp"
+        android:layout_weight="1"
+        android:background="@drawable/bachg_btn"
+        android:backgroundTintMode="add"
+        android:contentDescription="TODO"
+        android:hapticFeedbackEnabled="true"
+        android:onClick="RectangleBtn_Object"
+        android:src="@drawable/rectangle_btn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/CircleBtn_Object"
+        tools:ignore="SpeakableTextPresentCheck,ImageContrastCheck,DuplicateSpeakableTextCheck"
+        tools:srcCompat="@drawable/rectangle_btn" />
+
+    <ImageButton
+        android:id="@+id/SquareBtn_Object"
+        android:layout_width="200dp"
+        android:layout_height="140dp"
+        android:layout_marginTop="20dp"
+        android:layout_weight="1"
+        android:background="@drawable/bachg_btn"
+        android:backgroundTintMode="add"
+        android:contentDescription="TODO"
+        android:hapticFeedbackEnabled="true"
+        android:onClick="SquareBtn_Object"
+        android:src="@drawable/square_btn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/RectangleBtn_Object"
+        tools:ignore="ImageContrastCheck"
+        tools:srcCompat="@drawable/square_btn" />
+
+    <ImageButton
+        android:id="@+id/TriangleBtn_Object"
+        android:layout_width="200dp"
+        android:layout_height="140dp"
+        android:layout_marginTop="20dp"
+        android:layout_weight="1"
+        android:background="@drawable/bachg_btn"
+        android:contentDescription="TODO"
+        android:onClick="TriangleBtn_Object"
+        android:src="@mipmap/trianglesa"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/SquareBtn_Object"
+        tools:ignore="ImageContrastCheck" />
+
+    <ImageButton
+        android:id="@+id/CircleBtn_Object"
+        android:layout_width="200dp"
+        android:layout_height="140dp"
+        android:layout_marginTop="18dp"
+        android:layout_weight="1"
+        android:background="@drawable/bachg_btn"
+        android:backgroundTintMode="add"
+        android:clickable="true"
+        android:focusable="true"
+        android:hapticFeedbackEnabled="true"
+        android:onClick="CircleBtn_Object"
+        android:src="@drawable/circle_btn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="ImageContrastCheck,SpeakableTextPresentCheck"
+        tools:src="@drawable/circle_btn"
+        tools:srcCompat="@drawable/circle_btn" />
+</androidx.constraintlayout.widget.ConstraintLayout>
