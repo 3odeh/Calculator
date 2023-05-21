@@ -1,6 +1,6 @@
 # Calculator App
 ## Description
-The Mathematical Calculator App is an Android application that provides a user-friendly interface for performing various mathematical calculations, including basic arithmetic operations, evaluation of mathematical expressions, and calculations related to geometric shapes. The app supports calculations for circle, rectangle, triangle, and square, allowing users to calculate their areas and perimeters.
+The Calculator App is an Android application that provides a user-friendly interface for performing various mathematical calculations, including basic arithmetic operations, evaluation of mathematical expressions, and calculations related to geometric shapes. The app supports calculations for circle, rectangle, triangle, and square, allowing users to calculate their areas and perimeters.
 
 The app is built using the Android platform and utilizes the mxparser library for mathematical expression parsing and evaluation. It offers a responsive and intuitive user interface with buttons for numbers, operators, and shape calculations.
 
@@ -20,7 +20,7 @@ The app is built using the Android platform and utilizes the mxparser library fo
 
 ## Installation
 
-To install and run the Mathematical Calculator App on your local machine, follow these steps:
+To install and run the Calculator App on your local machine, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Open the project in an Android development environment (e.g., Android Studio).
